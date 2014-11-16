@@ -5,6 +5,7 @@ var profile = (function(){
         releaseName: "resources",
         action: "release",
         layerOptimize: "closure",
+        useSourceMaps: false,
         optimize: "closure",
 //        layerOptimize: "shrinksafe",
 //        optimize: "shrinksafe",
